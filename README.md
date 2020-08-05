@@ -11,7 +11,7 @@ TEST ĐƠN GIẢN ỨNG DỤNG
  
  ![image](https://github.com/taochangbang123/Thietlapview/blob/master/b.png?raw=true)
  
- ấn Thoát để thoát CT
+ Ấn Thoát để thoát CT
 
  - ### *Ngày 23/07/2020*
 
