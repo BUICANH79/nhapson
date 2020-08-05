@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nhapson</string>
+    <string name="textView5">CHƯƠNG TRÌNH NHẬP N SỐ BẤT KỲ</string>
+    <string name="textView3">Các số lẻ từ số nguyên vừa nhập :</string>
+    <string name="view1">Hãy nhập số n</string>
+    <string name="soN">n =</string>
+    <string name="textView4">CHƯƠNG TRÌNH NHẬP N SỐ BẤT KỲ</string>
+    <string name="btnhienthi">Hiển Thị</string>
+    <string name="exit">Thoát</string>
+</resources>
