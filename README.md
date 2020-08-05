@@ -12,3 +12,13 @@ TEST ĐƠN GIẢN ỨNG DỤNG
  ![image](https://github.com/taochangbang123/Thietlapview/blob/master/b.png?raw=true)
  
  ấn Thoát để thoát CT
+
+ - ### *Ngày 23/07/2020*
+
+      - ## *Nha Trang Copyright© B.C*
+  
+      - ## *D.C 0966669971*
+ 
+      - ## *CĐKT CÔNG NGHÊ NHA TRANG*
+      
+      ![image](https://github.com/taochangbang123/Lam-quen-moi-truong-Android/blob/master/t%E1%BA%A3i%20xu%E1%BB%91ng.png?raw=true)
