@@ -1,9 +1,9 @@
 
 Bài Thi kết thúc môn nhập số N
 
-TEST ĐƠN GIẢN ứng dụng
+TEST ĐƠN GIẢN ỨNG DỤNG
  
- B1 : Chạy Ctrinh sẽ hiển thị chương trình như sau
+ B1 : Chạy chương trình sẽ hiển thị chương trình như sau :
  
  ![image](https://github.com/taochangbang123/Thietlapview/blob/master/a.png?raw=true)
  
